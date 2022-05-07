@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
 mx: servantvoice-com.mail.protection.outlook.com
-max_age: 3600
+max_age: 604800
