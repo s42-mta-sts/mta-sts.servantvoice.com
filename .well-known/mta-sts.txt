@@ -1,5 +1,5 @@
 version: STSv1
 mode: enforce
 mx: servantvoice-com.mail.protection.outlook.com
-max_age: 2419400
+max_age: 4838800
 
